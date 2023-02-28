@@ -1,0 +1,5 @@
+﻿  Refectorizar.cpp
+F:\M16\Refectorizar\Refectorizar\Refectorizar.cpp(175,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+F:\M16\Refectorizar\Refectorizar\Refectorizar.cpp(64): warning C4715: 'chooseEnemy': no todas las rutas de acceso de control devuelven un valor
+F:\M16\Refectorizar\Refectorizar\Refectorizar.cpp(97): warning C4715: 'checkEnemyStatus': no todas las rutas de acceso de control devuelven un valor
+  Refectorizar.vcxproj -> F:\M16\Refectorizar\x64\Debug\Refectorizar.exe
